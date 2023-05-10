@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(100, 190, 100);
+}
+.youtobe {
+    color: white;
+}
+.obrazek {
+    width: 100px;
+    height: 80px;
+}
+.lista {
+    width: 1270px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    ;
+}  
+.seznam {
+    font-family: 'Kanit', sans-serif;
+}
